@@ -9,4 +9,4 @@ COPY . /app
 
 RUN mvn package
 
-CMD ["java", "-jar", "target/laskin.jar"]
+CMD ["java", "-jar", "target/Tripcalculator.jar"]
