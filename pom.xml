@@ -29,7 +29,7 @@
     </dependencies>
 
     <build>
-        <finalName>Tripcalculator</finalName>
+        <finalName>TempConverter</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
@@ -52,7 +52,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TripCalculator</mainClass>
+                            <mainClass>TemperatureConverter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
